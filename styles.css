@@ -1,0 +1,20 @@
+/* styles.css */
+h1, h2 {
+    color: #343a40;
+}
+
+p, h3, ul, ol {
+    color: #555;
+}
+
+.navbar {
+    margin-bottom: 20px;
+}
+
+.table th, .table td {
+    text-align: center;
+}
+
+footer p {
+    margin: 0;
+}
